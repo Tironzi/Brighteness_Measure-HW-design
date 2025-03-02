@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=U4 Old Footprint=SOT23-5 New Footprint=SOIC127P599X175-8N
+Added Pin To Net: NetName=NetR10_1 Pin=U4-6
+Added Pin To Net: NetName=+9V Pin=U4-7
+Added Pin To Net: NetName=NetC11_1 Pin=U5-6
+Added Pin To Net: NetName=+9V Pin=U5-7
+Added Pin To Net: NetName=NetU6_2 Pin=U6-6
+Added Pin To Net: NetName=+9V Pin=U6-7

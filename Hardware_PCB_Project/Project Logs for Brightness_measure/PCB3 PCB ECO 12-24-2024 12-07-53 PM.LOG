@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=+0.2965V Pin=R3-1
+Removed Pin From Net: NetName=NetR10_1 Pin=U4-1
+Removed Pin From Net: NetName=-9V Pin=U4-2
+Removed Pin From Net: NetName=NetQ1_2 Pin=U4-4
+Removed Pin From Net: NetName=+9V Pin=U4-5
+Removed Pin From Net: NetName=NetC11_1 Pin=U5-1
+Removed Pin From Net: NetName=-9V Pin=U5-2
+Removed Pin From Net: NetName=NetC11_2 Pin=U5-4
+Removed Pin From Net: NetName=+9V Pin=U5-5
+Removed Pin From Net: NetName=-9V Pin=U6-2
+Removed Pin From Net: NetName=+9V Pin=U6-5
+Change Footprint: Footprint Not Found SOIC127P599X175-8N
+Change Footprint: Footprint Not Found SOIC127P599X175-8N
+Change Footprint: Footprint Not Found SOIC127P599X175-8N
+Change Component Comment : Designator=U4 Old Comment=OPA333 New Comment=OPA188AIDR
+Change Component Comment : Designator=U5 Old Comment=OPA333 New Comment=OPA188AIDR
+Change Component Comment : Designator=U6 Old Comment=OPA333 New Comment=OPA188AIDR
+Change component parameters: Designator = "U4" ("U4"); Footprint = "SOT23-5"; UniqueID = "\BGRNROOD" ("\BGRNROOD")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "296-41346-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=1236132"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=1236132"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "OPA188AIDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/OPA188AIDR/Texas%20Instruments/view-part/1236132/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=1236132"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "SOT23-5"; UniqueID = "\GUYTJBKR" ("\GUYTJBKR")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "296-41346-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=1236132"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=1236132"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "OPA188AIDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/OPA188AIDR/Texas%20Instruments/view-part/1236132/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=1236132"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "SOT23-5"; UniqueID = "\CBZQFAPQ" ("\CBZQFAPQ")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "296-41346-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=1236132"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=1236132"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "OPA188AIDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/OPA188AIDR/Texas%20Instruments/view-part/1236132/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=1236132"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+0.2965V Pin=R3-2
+Added Pin To Net: NetName=NetQ1_2 Pin=U4-2
+Added Pin To Net: NetName=-9V Pin=U4-4
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Added Pin To Net: NetName=NetC11_2 Pin=U5-2
+Added Pin To Net: NetName=-9V Pin=U5-4
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Added Pin To Net: NetName=-9V Pin=U6-4
+Add Pin To Net: Unknown Pin: Pin U6-7
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R9-2
+Added Pin To Net: NetName=NetR3_1 Pin=U4-3
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetU6_2 Pin=U6-2
+Added Pin To Net: NetName=NetU6_2 Pin=V2-1
+Added Net: Name=NetU6_2

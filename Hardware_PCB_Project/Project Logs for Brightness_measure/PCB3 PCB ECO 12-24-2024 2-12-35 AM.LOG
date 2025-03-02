@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=-9V Pin=U4-2
+Removed Pin From Net: NetName=NetR3_2 Pin=U4-3
+Removed Pin From Net: NetName=NetQ1_2 Pin=U4-4
+Removed Pin From Net: NetName=+9V Pin=U4-5
+Removed Pin From Net: NetName=-9V Pin=U5-2
+Removed Pin From Net: NetName=NetC11_2 Pin=U5-4
+Removed Pin From Net: NetName=+9V Pin=U5-5
+Removed Pin From Net: NetName=NetJP1_1 Pin=U6-1
+Removed Pin From Net: NetName=-9V Pin=U6-2
+Removed Pin From Net: NetName=NetR14_2 Pin=U6-3
+Removed Pin From Net: NetName=NetJP1_1 Pin=U6-4
+Removed Pin From Net: NetName=+9V Pin=U6-5
+Removed Member From Class: ClassName=Measure Member=U4
+Removed Member From Class: ClassName=Measure Member=U5
+Removed Member From Class: ClassName=Measure Member=U6

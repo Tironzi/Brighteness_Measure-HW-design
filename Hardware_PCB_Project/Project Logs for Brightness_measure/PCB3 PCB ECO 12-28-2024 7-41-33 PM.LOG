@@ -1,0 +1,9 @@
+Add Component: Footprint Not Found TRIM_3362P-1-503
+Added Component: Designator=Vtrim(TP_2MM)
+Add Pin To Net: Unknown Pin: Pin VR1-1
+Add Pin To Net: Unknown Pin: Pin VR1-3
+Added Pin To Net: NetName=Vtrim Pin=Vtrim-1
+Added Net: Name=Vtrim
+Add Class Member: Failed to add class member : Component VR1 3362P-1-503
+Added Member To Class: ClassName=Power_supply Member=Component Vtrim Test_Point
+Added Rule: Name=Schematic Supply Nets_6
